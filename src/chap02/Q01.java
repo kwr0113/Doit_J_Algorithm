@@ -3,7 +3,7 @@ package chap02;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Q1 {
+public class Q01 {
 	
 	static int maxOf(int[] a) {
 		int max = a[0];

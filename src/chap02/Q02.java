@@ -2,7 +2,7 @@ package chap02;
 
 import java.util.Scanner;
 
-public class Q2 {
+public class Q02 {
 	
 	static void swap(int[] a, int idx1, int idx2) {
 		System.out.println("a["+ idx1 + "]과(와) a[" + idx2 + "]를 교환합니다.");
