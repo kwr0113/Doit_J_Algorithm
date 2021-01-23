@@ -51,7 +51,7 @@ public class Queue {
 	}
 	
 	public int indexOf(int x) {
-		for(int i = front; i <= rear; i++) {
+		for(int i = front; i < rear; i++) {
 			if(que[i] == x) {
 				return i;
 			}
