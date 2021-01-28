@@ -58,6 +58,5 @@ public class Q14 {
 		for(int i = 0; i < nx; i++) {
 			System.out.println("x["+i+"] : " + x[i]);
 		}
-	
 	}
 }
